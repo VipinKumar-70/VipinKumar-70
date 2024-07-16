@@ -2,7 +2,7 @@
 
 #### About Me
 
-I'm a passionate frontend developer from India, currently pursuing my Bachelor's in Computer Application. I have a strong foundation in web development with proficiency in **HTML, CSS, JavaScript, Bootstrap**, and **jQuery**. Recently, I've been diving deeper into **React.js** to enhance my skills further.
+I'm a passionate frontend developer from India, recently graduated with a Bachelor's in Computer Application and currently pursuing my Master's in Computer Application. I have a strong foundation in web development with proficiency in **HTML, CSS, JavaScript, Bootstrap**, and **jQuery**. Recently, I've been diving deeper into **React.js** to enhance my skills further.
 
 #### My Projects
 
