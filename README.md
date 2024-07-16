@@ -2,8 +2,22 @@
 
 #### About Me
 
-- 🌱 I’m currently learning **React.js**.
-- 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap, jQuery, PHP**.
+I'm a passionate frontend developer from India, currently pursuing my Bachelor's in Computer Application. I have a strong foundation in web development with proficiency in **HTML, CSS, JavaScript, Bootstrap**, and **jQuery**. Recently, I've been diving deeper into **React.js** to enhance my skills further.
+
+#### My Projects
+
+Here are a few projects I've worked on and uploaded to GitHub:
+
+- **Personal Portfolio**: Built using HTML, CSS, JavaScript, and Bootstrap. [View Portfolio](https://vipinkumar-70.github.io/Web-Portfolio/)
+- **Ecommerce Website**: Developed using HTML, CSS, and JavaScript. [View Ecommerce Site](https://vipinstylehub.netlify.com/)
+- **Agency Website**: Created with HTML, CSS, and JavaScript. [View Agency Site](https://github.com/VipinKumar-70/agency-website)
+
+#### Skills
+
+- **Programming Languages**: JavaScript, PHP, Python
+- **Web Technologies**: HTML5, CSS3, Bootstrap, jQuery
+- **Database**: MySQL
+- **Frameworks/Libraries**: React.js (currently learning)
 
 #### Connect with Me
 
@@ -12,18 +26,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;" />
   </a>
   <a href="https://instagram.com/vipinkumar__70" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="30" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30" style="margin-right: 10px;" />
   </a>
-</p>
-
-#### Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" style="margin-right: 10px;" />
 </p>
 
 #### GitHub Stats
