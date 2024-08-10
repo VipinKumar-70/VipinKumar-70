@@ -15,7 +15,7 @@ Here are a few projects I've worked on and uploaded to GitHub:
 #### Skills
 
 - **Programming Languages**: JavaScript, PHP, Python
-- **Web Technologies**: HTML5, CSS3, Bootstrap, jQuery
+- **Web Technologies**: HTML5, CSS3, Bootstrap, Tailwind, jQuery
 - **Database**: MySQL
 - **Frameworks/Libraries**: React.js (currently learning)
 
