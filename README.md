@@ -16,10 +16,11 @@ Here are a few projects I've worked on and uploaded to GitHub:
 
 #### Skills
 
-- **Programming Languages**: JavaScript, PHP, Python
+- **Programming Languages**: C, JavaScript, Python, PHP
 - **Web Technologies**: HTML5, CSS3, Bootstrap, Tailwind, jQuery
+- **Animation**: GSAP
 - **Database**: MySQL
-- **Frameworks/Libraries**: React.js (currently learning)
+- **Frameworks/Libraries**: React.js
 
 #### Connect with Me
 
