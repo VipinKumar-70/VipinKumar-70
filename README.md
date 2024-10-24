@@ -29,3 +29,9 @@ Here are a few projects I've worked on and uploaded to GitHub:
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30" style="margin-right: 10px;" />
   </a>
 </p>
+
+#### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinkumar-70&layout=compact&theme=dark" alt="Top Languages" />
+</p>
