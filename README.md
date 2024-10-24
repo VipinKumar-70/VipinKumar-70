@@ -2,7 +2,9 @@
 
 #### About Me
 
-I'm a passionate frontend developer from India, recently graduated with a Bachelor's in Computer Application and currently pursuing my Master's in Computer Application. I have a strong foundation in web development with proficiency in **HTML, CSS, JavaScript, Bootstrap**, and **jQuery**. Recently, I've been diving deeper into **React.js** to enhance my skills further.
+##### Web Developer | BCA in AI & ML | MCA Candidate
+I am a web developer with expertise in HTML, CSS, JavaScript, and React. I hold a BCA with a specialization in AI and ML and am currently pursuing an MCA. With experience in creating responsive websites and ecommerce platforms, I am skilled in using frameworks like Bootstrap and Tailwind CSS. I am eager to apply my web development skills in a dynamic and challenging role.
+
 
 #### My Projects
 
