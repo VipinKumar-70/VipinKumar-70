@@ -10,7 +10,7 @@ I am a web developer with expertise in HTML, CSS, JavaScript, and React. I hold 
 
 Here are a few projects I've worked on and uploaded to GitHub:
 
-- **Personal Portfolio**: Built using HTML, CSS, JavaScript, and Bootstrap. [View Portfolio](https://vipinkumar-70.github.io/Web-Portfolio/)
+- **Personal Portfolio**: Built using JavaScript, React, and Tailwind CSS. [View Portfolio](https://vipin-portfolio-omega.vercel.app/)
 - **Ecommerce Website**: Developed using HTML, CSS, and JavaScript. [View Ecommerce Site](https://vipinstylehub.netlify.com/)
 - **Agency Website**: Created with HTML, CSS, and JavaScript. [View Agency Site](https://github.com/VipinKumar-70/agency-website)
 
