@@ -11,7 +11,7 @@ I am a web developer with expertise in HTML, CSS, JavaScript, and React. I hold 
 Here are a few projects I've worked on and uploaded to GitHub:
 
 - **Personal Portfolio**: Built using JavaScript, React, and Tailwind CSS. [View Portfolio](https://vipin-portfolio-omega.vercel.app/)
-- **Cohere | Clone**: Developed using HTML, CSS, JavaScript and React. [View Ecommerce Site](https://cohere-clone.vercel.app/)
+- **Cohere | Clone**: Developed using HTML, CSS, JavaScript and React. [View Site](https://cohere-clone.vercel.app/)
 - **Agency Website**: Created with HTML, CSS, and JavaScript. [View Agency Site](https://github.com/VipinKumar-70/agency-website)
 
 #### Skills
