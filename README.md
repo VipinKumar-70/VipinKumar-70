@@ -14,20 +14,16 @@ Currently pursuing MCA and seeking opportunities to contribute to impactful full
 
 ## 💻 Technical Skills  
 
-**Languages:**  : JavaScript (ES6+), C, Python (Basics), PHP  
-**Frontend:**  : React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery  
-**Backend:**  : Node.js, Express.js, REST APIs, JWT Authentication  
-**Database:**  : MongoDB, MySQL  
-**Tools & Platforms:**  : Git, GitHub, Postman, Vercel, Render  
-
----
+**Languages:** JavaScript (ES6+), C, Python (Basics), PHP  
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery  
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
+**Database:** MongoDB, MySQL  
+**Tools & Platforms:** Git, GitHub, Postman, Vercel, Render  
 
 ## 🌐 Personal Portfolio  
 
 🔗 **Live:** https://vipin-portfolio-omega.vercel.app/  
 Built using **React.js** and **Tailwind CSS**
-
----
 
 ## 📫 Connect with Me  
 
