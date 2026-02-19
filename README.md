@@ -10,7 +10,6 @@ I build scalable web applications with secure authentication, REST API integrati
 
 Currently pursuing MCA and seeking opportunities to contribute to impactful full-stack products.
 
----
 
 ## 💻 Technical Skills  
 
