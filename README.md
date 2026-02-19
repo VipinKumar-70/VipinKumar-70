@@ -1,40 +1,71 @@
-### Hi there, I'm Vipin Kumar! 👋
+# Hi there, I'm Vipin Kumar! 👋  
 
-#### About Me
+## 🚀 About Me  
 
-##### Web Developer | BCA in AI & ML | MCA Candidate
-I am a web developer with expertise in HTML, CSS, JavaScript, and React. I hold a BCA with a specialization in AI and ML and am currently pursuing an MCA. With experience in creating responsive websites and ecommerce platforms, I am skilled in using frameworks like Bootstrap and Tailwind CSS. I am eager to apply my web development skills in a dynamic and challenging role.
+### MERN Stack Developer | MCA Candidate  
 
+I am a full-stack developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) with strong frontend expertise in React and modern JavaScript (ES6+).
 
-#### My Projects
+I build scalable web applications with secure authentication, REST API integration, and structured backend architecture. Along with hands-on industry experience, I actively develop production-level full-stack projects to strengthen system design and performance optimization skills.
 
-Here are a few projects I've worked on and uploaded to GitHub:
+I am currently pursuing my MCA and looking for opportunities where I can contribute to impactful full-stack products and grow as a software engineer.
 
-- **Personal Portfolio**: Built using JavaScript, React, and Tailwind CSS. [View Portfolio](https://vipin-portfolio-omega.vercel.app/)
-- **Cohere | Clone**: Developed using HTML, CSS, JavaScript and React. [View Site](https://cohere-clone.vercel.app/)
-- **Agency Website**: Created with HTML, CSS, and JavaScript. [View Agency Site](https://github.com/VipinKumar-70/agency-website)
+---
 
-#### Skills
+## 🛠️ Projects  
 
-- **Programming Languages**: C, JavaScript, Python, PHP
-- **Web Technologies**: HTML5, CSS3, Bootstrap, Tailwind, jQuery
-- **Animation**: GSAP
-- **Database**: MySQL
-- **Frameworks/Libraries**: React.js
+### 🔹 SmartLibrary – MERN Stack Library Management System  
+- JWT Authentication & Email Verification  
+- Role-Based Access Control (Admin / Student)  
+- RESTful APIs using Express.js  
+- MongoDB schema design & query optimization  
+- Modern UI built with React + Tailwind CSS  
 
-#### Connect with Me
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/vipinkumar70" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://instagram.com/vipinkumar__70" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30" style="margin-right: 10px;" />
-  </a>
-</p>
+### 🔹 MiniGram – Full-Stack Social Media Application  
+🔗 Live Demo: https://minigram-sx2i.onrender.com/  
 
-#### GitHub Stats
+- Secure user authentication & protected routes  
+- MVC architecture implementation  
+- CRUD operations & relational data modeling  
+- Middleware-based backend logic  
+- MongoDB integration  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinkumar-70&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+---
+
+### 🔹 Personal Portfolio  
+🔗 https://vipin-portfolio-omega.vercel.app/  
+Built using React and Tailwind CSS  
+
+---
+
+## 💻 Skills  
+
+### 🔹 Languages  
+JavaScript (ES6+), C, Python (Basics), PHP  
+
+### 🔹 Frontend  
+React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery  
+
+### 🔹 Backend  
+Node.js, Express.js, REST APIs, JWT Authentication  
+
+### 🔹 Database  
+MongoDB, MySQL  
+
+### 🔹 Tools & Platforms  
+Git, GitHub, Postman, Vercel, Render  
+
+---
+
+## 📫 Connect with Me  
+
+- LinkedIn: https://linkedin.com/in/vipinkumar70  
+- Instagram: https://instagram.com/vipinkumar__70  
+
+---
+
+## 📊 GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinkumar-70&layout=compact&theme=dark)
