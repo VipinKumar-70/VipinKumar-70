@@ -12,28 +12,6 @@ I am currently pursuing my MCA and looking for opportunities where I can contrib
 
 ---
 
-## 🛠️ Projects  
-
-### 🔹 SmartLibrary – MERN Stack Library Management System  
-- JWT Authentication & Email Verification  
-- Role-Based Access Control (Admin / Student)  
-- RESTful APIs using Express.js  
-- MongoDB schema design & query optimization  
-- Modern UI built with React + Tailwind CSS  
-
----
-
-### 🔹 MiniGram – Full-Stack Social Media Application  
-🔗 Live Demo: https://minigram-sx2i.onrender.com/  
-
-- Secure user authentication & protected routes  
-- MVC architecture implementation  
-- CRUD operations & relational data modeling  
-- Middleware-based backend logic  
-- MongoDB integration  
-
----
-
 ### 🔹 Personal Portfolio  
 🔗 https://vipin-portfolio-omega.vercel.app/  
 Built using React and Tailwind CSS  
@@ -42,20 +20,11 @@ Built using React and Tailwind CSS
 
 ## 💻 Skills  
 
-### 🔹 Languages  
-JavaScript (ES6+), C, Python (Basics), PHP  
-
-### 🔹 Frontend  
-React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery  
-
-### 🔹 Backend  
-Node.js, Express.js, REST APIs, JWT Authentication  
-
-### 🔹 Database  
-MongoDB, MySQL  
-
-### 🔹 Tools & Platforms  
-Git, GitHub, Postman, Vercel, Render  
+### 🔹 Languages  : JavaScript (ES6+), C, Python (Basics), PHP  
+### 🔹 Frontend   : React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery  
+### 🔹 Backend    : Node.js, Express.js, REST APIs, JWT Authentication  
+### 🔹 Database   : MongoDB, MySQL  
+### 🔹 Tools & Platforms  : Git, GitHub, Postman, Vercel, Render  
 
 ---
 
@@ -65,7 +34,3 @@ Git, GitHub, Postman, Vercel, Render
 - Instagram: https://instagram.com/vipinkumar__70  
 
 ---
-
-## 📊 GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinkumar-70&layout=compact&theme=dark)
