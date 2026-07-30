@@ -1,26 +1,22 @@
 <h1 align="center">Hi there, I'm Vipin Kumar 👋</h1>
-<h3 align="center">MERN Stack Developer | MCA Graduate</h3>
+<h3 align="center">MERN Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA5E9&center=true&vCenter=true&width=560&lines=Building+full-stack+apps+with+the+MERN+stack;Thinking+in+components%2C+APIs+%26+data+flow;Currently+leveling+up+system+design+skills" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **MERN Stack Developer** (MongoDB, Express.js, React.js, Node.js) with hands-on experience building and deploying scalable full-stack applications and client-focused websites. I'm skilled in **REST API development**, **JWT-based authentication**, and building responsive, high-performance interfaces with **React**.
+I work across the full stack — React on the frontend, Node/Express on the backend, MongoDB underneath — and I care about *how* things are built, not just that they work. That means thinking through auth flows, API structure, and performance before I write the first line of code, not after.
 
-I've delivered real-world solutions across healthcare, education, logistics, and startup sectors — with a focus on **performance optimization**, **lead generation**, and **user-centric design**.
+Lately I've been going deeper into system design, cleaner API architecture, and making frontend performance a habit rather than an afterthought. I like picking apart how larger codebases are structured and borrowing patterns that actually hold up at scale.
 
-- 🎓 **MCA Graduate** — KR Mangalam University (2024 – 2026)
-- 💼 Currently freelancing as a **Full Stack Developer** at **GP Mercatus**
-- 🌱 Actively building production-level full-stack projects to sharpen system design skills
-- 📫 Open to full-stack / frontend developer roles — feel free to reach out!
-
----
-
-
-## 🎓 Education
-
-**Master of Computer Applications (MCA)** — KR Mangalam University, Gurugram · 2024 – 2026
-**Bachelor of Computer Applications (BCA)** — Guru Gobind Singh Indraprastha University · 2021 – 2024 · CGPA 7.96/10
+- 🧩 Comfortable owning a feature end-to-end — UI, API, database, and the auth/security layer holding it together
+- ⚡ Into performance: code splitting, lazy loading, query optimization, the stuff that's invisible until it's missing
+- 📚 Studying system design and backend architecture patterns beyond the basics
+- 💬 Always up for a conversation about clean architecture or a stubborn bug
 
 ---
 
@@ -59,16 +55,36 @@ I've delivered real-world solutions across healthcare, education, logistics, and
 
 ---
 
-## 🌐 Personal Portfolio  
-[![Portfolio](https://img.shields.io/badge/vipin--portfolio--omega.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-puce-l9on4edha5.vercel.app/)
+## 📊 GitHub Activity
 
-> Built with **React.js** and **Tailwind CSS** — deployed on Vercel
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+</p>
 
-## 📫 Connect with Me  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" />
+</p>
 
-I'm actively looking for full-stack or frontend developer roles. Feel free to reach out!
+<p align="center"><i>💡 Swap <code>YOUR-USERNAME</code> for your GitHub handle to make these live.</i></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipinkumar70)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vipinkumar__70)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vipin-portfolio-omega.vercel.app/)
+---
 
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/vipinkumar70" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vipin70kr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-five-puce-l9on4edha5.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/vipinkumar__70" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>⭐️ Thanks for stopping by — always open to a chat about full-stack dev, system design, or a good debugging story.</i></p>
