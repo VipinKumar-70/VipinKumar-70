@@ -118,10 +118,6 @@ Currently, I'm expanding my knowledge in **System Design**, **Backend Architectu
   <img src="https://streak-stats.demolab.com?user=vipinkumar-70&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipinkumar-70&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
 ---
 
 <h1>🌱 ~/currently-learning</h1>
