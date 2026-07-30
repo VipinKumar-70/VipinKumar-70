@@ -1,127 +1,99 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2EA5E9&height=200&section=header&text=Vipin%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=55&descSize=18" width="100%"/>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=🚀+Crafting+Full-Stack+Applications;⚡+React+%7C+Node.js+%7C+MongoDB;🧩+Turning+Ideas+Into+Scalable+Products;🌱+Learning+System+Design+%26+Cloud+Architecture" />
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2EA5E9&height=200&section=header&text=Vipin%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipinkumar-70&label=PROFILE+VIEWS&color=00FF9C&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20LEARNING-00FF9C?style=for-the-badge&labelColor=111111"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Clean+%26+Scalable+Web+Applications;Currently+Learning+System+Design+%26+Backend+Architecture" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipinkumar-70&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-2EA5E9?style=for-the-badge&labelColor=000000" />
+</p>
+
+<div align="center">
+
+```
+$ whoami
+```
+
+</div>
+
+```js
+const vipin = {
+  role: "MERN Stack Developer",
+  stack: ["React", "Node.js", "Express", "MongoDB"],
+  focus: ["clean architecture", "REST APIs", "performance"],
+  currentlyLearning: ["system design", "backend architecture", "CI/CD"],
+  funFact: "cares more about *how* it's built than that it just works",
+};
+```
 
 ---
 
-<h1>👨‍💻 ~/about-vipin</h1>
+<h1>💻 ~/about-me</h1>
 
-Hey! I'm **Vipin Kumar** — a **MERN Stack Developer** who enjoys creating modern web experiences and solving real-world problems through code.
+I'm a **MERN Stack Developer** passionate about building scalable, user-focused web applications.
 
-I work across the full development cycle:
+I enjoy working across the complete development lifecycle — from designing responsive interfaces to building secure REST APIs and optimizing databases.
 
-🚀 Designing responsive user interfaces  
-⚙️ Building scalable backend systems  
-🔐 Creating secure authentication flows  
-🗄️ Managing databases and APIs  
-☁️ Deploying production-ready applications  
+Currently, I'm expanding my knowledge in **System Design**, **Backend Architecture**, and **Performance Optimization** to build applications that remain maintainable as they grow.
 
-
-My developer philosophy:
-
-> "Clean code today creates fewer problems tomorrow."
-
----
-
-<h1>⚡ ~/developer-profile</h1>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ROLE-MERN%20STACK%20DEVELOPER-0e75b6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-SCALABLE%20APPLICATIONS-2EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-00FF9C?style=for-the-badge"/>
-
-</p>
-
-
-<p align="center">
-
-🧠 System Design  
-&nbsp; • &nbsp;
-⚡ Performance Optimization  
-&nbsp; • &nbsp;
-🔧 Clean Architecture  
-&nbsp; • &nbsp;
-🚀 Product Development
-
-</p>
-
+```diff
++ Build complete MERN applications from frontend to deployment
++ Implement Authentication & Authorization using JWT
++ Optimize frontend performance with Lazy Loading & Code Splitting
++ Learning System Design and scalable backend patterns
++ Always interested in collaborating on meaningful projects
+```
 
 ---
 
-<h1>🛠️ ~/tech-stack</h1>
+<h1>🛠 ~/tech-stack</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,mysql,git,github,docker,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=js,py,react,tailwind,nodejs,express,mongodb,mysql,git,github,docker,vscode&perline=6"/>
 </p>
-
 
 <p align="center">
-💻 Frontend &nbsp; | &nbsp;
-⚙️ Backend &nbsp; | &nbsp;
-🗄️ Database &nbsp; | &nbsp;
-🚢 Deployment
+<code>Frontend</code> • <code>Backend</code> • <code>Database</code> • <code>DevOps</code>
 </p>
-
-
 ---
 
 <h1>🌱 ~/currently-learning</h1>
 
-<p align="center">
-
-🔭 System Design  
-<br>
-🏗️ Backend Architecture  
-<br>
-📦 Design Patterns  
-<br>
-⚡ Advanced React Performance  
-<br>
-☁️ Docker & CI/CD
-
-</p>
-
+```yaml
+learning:
+  - System Design
+  - Scalable Backend Architecture
+  - Design Patterns
+  - Advanced React Performance
+  - Docker & CI/CD
+```
 
 ---
 
-<h1>📡 ~/connect</h1>
+<h1>📫 ~/connect</h1>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/vipinkumar70">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:vipin70kr@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://portfolio-five-puce-l9on4edha5.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://instagram.com/vipinkumar__70">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
+  <a href="https://linkedin.com/in/vipinkumar70">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vipin70kr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-five-puce-l9on4edha5.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/vipinkumar__70">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
+<div align="center">
 
----
+```
+$ echo "Thanks for stopping by — let's build something."
+```
 
-<h1 align="center">🚀 Building • Learning • Shipping</h1>
+</div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA5E9,100:0e75b6&height=100&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA5E9,100:0e75b6&height=100&section=footer" width="100%"/>
