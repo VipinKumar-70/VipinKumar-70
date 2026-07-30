@@ -1,25 +1,6 @@
 <h1 align="center">Hi there, I'm Vipin Kumar 👋</h1>
 <h3 align="center">MERN Stack Developer | MCA Graduate</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+scalable+web+apps;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Open+to+Full-Stack+%26+Frontend+Roles" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vipinkumar70" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-five-puce-l9on4edha5.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:vipin70kr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/vipinkumar__70" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -35,7 +16,6 @@ I've delivered real-world solutions across healthcare, education, logistics, and
 
 ---
 
----
 
 ## 🎓 Education
 
