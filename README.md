@@ -51,18 +51,12 @@ learning:
 
 # 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vipinkumar-70&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinkumar-70&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vipinkumar-70&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipinkumar-70&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
 
 ---
 
