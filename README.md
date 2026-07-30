@@ -50,34 +50,12 @@ Currently, I'm expanding my knowledge in **System Design**, **Backend Architectu
 <h1>🛠 ~/tech-stack</h1>
 
 <p align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,py,php,mysql" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,gsap" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,jwt" />
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,docker" />
-
-</p>
-<h1>📈 ~/github-stats</h1>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vipinkumar-70&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinkumar-70&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=js,py,react,tailwind,nodejs,express,mongodb,mysql,git,github,docker,vscode&perline=6"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vipinkumar-70&theme=tokyonight&hide_border=true"/>
+<code>Frontend</code> • <code>Backend</code> • <code>Database</code> • <code>DevOps</code>
 </p>
-
 ---
 
 <h1>🌱 ~/currently-learning</h1>
