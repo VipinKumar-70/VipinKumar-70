@@ -34,43 +34,6 @@ I've delivered real-world solutions across healthcare, education, logistics, and
 - 📫 Open to full-stack / frontend developer roles — feel free to reach out!
 
 ---
-
-## 💼 Experience
-
-**Freelance Full Stack Developer** · GP Mercatus (Digital Marketing Agency) — *Mar 2026 – Present*
-- Sole full-stack contributor delivering end-to-end web solutions for 5+ clients across healthcare, education, logistics, and startups
-- Built SEO-optimised, responsive interfaces with React + Tailwind CSS, integrating APIs and lead-capture systems — driving a 30%+ increase in client inquiries
-- Improved load times by ~2s via code splitting, lazy loading, and asset compression
-
-**Web Developer Intern** · Limetray — *Jul 2025 – Oct 2025*
-- Built reusable React UI components, improving cross-platform consistency across a B2B SaaS product
-- Integrated REST APIs for dynamic content rendering, cutting manual data handling by 25%+
-- Resolved cross-browser issues and optimized JS bundle size alongside QA, reducing reported bugs by 30%
-
-**Web Developer Intern** · GD Solution — *Jul 2023 – Nov 2023*
-- Improved site performance and UX by debugging and shipping new features with HTML, CSS, JavaScript, PHP, and MySQL
-- Fixed cross-browser layout issues, improving render consistency
-
----
-
-## 🛠️ Featured Projects
-
-### 🤖 [AI-Powered Smart Library Management System](https://github.com/YOUR-USERNAME/YOUR-REPO)
-`React` `Node.js` `Express` `MongoDB` `Tailwind` `Multer` `bcrypt` `JWT`
-- Full-stack MERN app with role-based auth and protected routes for Admin & Student users
-- Hybrid system handling physical inventory + digital resources, with PDF upload/access via Multer
-- AI recommendation engine using interaction data, category filtering, and borrowing patterns for personalized suggestions
-
-### 📸 [MiniGram – Scalable Social Media Web App](https://github.com/YOUR-USERNAME/YOUR-REPO)
-`React` `Node.js` `Express` `MongoDB` `Tailwind` `bcrypt` `JWT`
-- Migrated a monolithic EJS app to a scalable MERN architecture, improving maintainability and frontend performance
-- Built secure auth/authorization workflows with JWT + bcrypt
-- Delivered dynamic, responsive UI components for a smoother user experience
-
-> 💡 Replace the links above with your actual repo URLs, and feel free to add a live-demo badge next to each.
-
----
-
 ## 🧰 Tech Stack
 
 **Languages**
