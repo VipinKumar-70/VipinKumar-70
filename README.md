@@ -122,12 +122,6 @@ Currently, I'm expanding my knowledge in **System Design**, **Backend Architectu
   <img src="https://github-profile-trophy.vercel.app/?username=vipinkumar-70&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinkumar-70&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-> 🐍 Want the animated contribution snake at the bottom of your profile too? It needs a small GitHub Action — say the word and I'll set that up for you.
-
 ---
 
 <h1>🌱 ~/currently-learning</h1>
