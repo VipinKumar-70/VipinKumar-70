@@ -7,21 +7,22 @@
 
 
 ---
+<h1>👨‍💻 ~/about-vipin</h1>
 
-<h1>💻 ~/about-me</h1>
+I'm a **MERN Stack Developer** passionate about building modern, scalable, and user-centric web applications.
 
-I'm a **MERN Stack Developer** passionate about building scalable, user-focused web applications.
+I enjoy turning ideas into production-ready products by working across the entire development lifecycle—from creating responsive user interfaces to developing secure REST APIs and designing efficient database architectures.
 
-I enjoy working across the complete development lifecycle — from designing responsive interfaces to building secure REST APIs and optimizing databases.
-
-Currently, I'm expanding my knowledge in **System Design**, **Backend Architecture**, and **Performance Optimization** to build applications that remain maintainable as they grow.
+Currently, I'm expanding my knowledge of **System Design**, **Backend Architecture**, and **Performance Optimization** to build applications that are scalable, maintainable, and production-ready.
 
 ```diff
-+ Build complete MERN applications from frontend to deployment
-+ Implement Authentication & Authorization using JWT
-+ Optimize frontend performance with Lazy Loading & Code Splitting
-+ Learning System Design and scalable backend patterns
-+ Always interested in collaborating on meaningful projects
++ Build full-stack MERN applications from development to deployment
++ Develop secure Authentication & Authorization using JWT
++ Create responsive, accessible, and reusable UI components
++ Optimize performance with Lazy Loading & Code Splitting
++ Learn System Design and scalable backend architectures
++ Write clean, maintainable, and production-ready code
++ Open to collaborating on impactful open-source and real-world projects
 ```
 
 ---
@@ -48,7 +49,6 @@ learning:
   - Docker & CI/CD
 ```
 
----
 
 <h1>📫 ~/connect</h1>
 
