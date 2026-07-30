@@ -59,14 +59,14 @@ Lately I've been going deeper into system design, cleaner API architecture, and 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vipinkumar-70&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinkumar-70&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinkumar-70&hide_border=true" />
 </p>
 
-<p align="center"><i>💡 Swap <code>YOUR-USERNAME</code> for your GitHub handle to make these live.</i></p>
+<p align="center"><i>💡 Swap <code>vipinkumar-70</code> for your GitHub handle to make these live.</i></p>
 
 ---
 
