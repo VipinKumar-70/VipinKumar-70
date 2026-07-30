@@ -7,7 +7,7 @@
 
 
 ---
-<h1>👨‍💻 ~/about-vipin</h1>
+<h1>👨‍💻 ~/about-me</h1>
 
 I'm a **MERN Stack Developer** passionate about building modern, scalable, and user-centric web applications.
 
