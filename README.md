@@ -4,28 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Clean+%26+Scalable+Web+Applications;Currently+Learning+System+Design+%26+Backend+Architecture" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipinkumar-70&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-2EA5E9?style=for-the-badge&labelColor=000000" />
-</p>
 
-<div align="center">
-
-```
-$ whoami
-```
-
-</div>
-
-```js
-const vipin = {
-  role: "MERN Stack Developer",
-  stack: ["React", "Node.js", "Express", "MongoDB"],
-  focus: ["clean architecture", "REST APIs", "performance"],
-  currentlyLearning: ["system design", "backend architecture", "CI/CD"],
-  funFact: "cares more about *how* it's built than that it just works",
-};
-```
 
 ---
 
