@@ -34,6 +34,16 @@ I've delivered real-world solutions across healthcare, education, logistics, and
 - 📫 Open to full-stack / frontend developer roles — feel free to reach out!
 
 ---
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)** — KR Mangalam University, Gurugram · 2024 – 2026
+**Bachelor of Computer Applications (BCA)** — Guru Gobind Singh Indraprastha University · 2021 – 2024 · CGPA 7.96/10
+
+---
+
 ## 🧰 Tech Stack
 
 **Languages**
@@ -69,45 +79,16 @@ I've delivered real-world solutions across healthcare, education, logistics, and
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Personal Portfolio  
+[![Portfolio](https://img.shields.io/badge/vipin--portfolio--omega.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-puce-l9on4edha5.vercel.app/)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
-</p>
+> Built with **React.js** and **Tailwind CSS** — deployed on Vercel
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" />
-</p>
+## 📫 Connect with Me  
 
-> 💡 Swap `YOUR-USERNAME` for your actual GitHub handle to activate these live stat cards.
+I'm actively looking for full-stack or frontend developer roles. Feel free to reach out!
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipinkumar70)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vipinkumar__70)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vipin-portfolio-omega.vercel.app/)
 
-## 🎓 Education
-
-**Master of Computer Applications (MCA)** — KR Mangalam University, Gurugram · 2024 – 2026
-**Bachelor of Computer Applications (BCA)** — Guru Gobind Singh Indraprastha University · 2021 – 2024 · CGPA 7.96/10
-
----
-
-## 📫 Let's Connect
-
-I'm actively looking for full-stack or frontend developer roles — always happy to chat about opportunities, collaborations, or just tech in general!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vipinkumar70" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vipin70kr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-five-puce-l9on4edha5.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/vipinkumar__70" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR-USERNAME">Vipin Kumar</a></i></p>
