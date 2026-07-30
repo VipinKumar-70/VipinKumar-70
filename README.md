@@ -49,39 +49,24 @@ Currently, I'm expanding my knowledge in **System Design**, **Backend Architectu
 
 <h1>🛠 ~/tech-stack</h1>
 
-```yaml
-frontend:
-  - React.js
-  - Tailwind CSS
-  - Bootstrap
-  - HTML5
-  - CSS3
-  - GSAP
+<p align="center">
 
-backend:
-  - Node.js
-  - Express.js
-  - JWT
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,py,php,mysql" />
 
-database:
-  - MongoDB
-  - MySQL
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,gsap" />
 
-languages:
-  - JavaScript
-  - Python
-  - PHP
-  - SQL
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,jwt" />
 
-tools:
-  - Git
-  - GitHub
-  - Postman
-  - Vercel
-  - Render
-  - VS Code
-```---
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,docker" />
+
+</p>
 <h1>📈 ~/github-stats</h1>
 
 <p align="center">
