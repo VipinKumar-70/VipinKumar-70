@@ -36,7 +36,6 @@ Currently, I'm expanding my knowledge of **System Design**, **Backend Architectu
 <p align="center">
 <code>Frontend</code> • <code>Backend</code> • <code>Database</code> • <code>DevOps</code>
 </p>
----
 
 <h1>🌱 ~/currently-learning</h1>
 
@@ -54,8 +53,6 @@ learning:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vipinkumar-70&theme=tokyonight&hide_border=true&v=2"/>
 </p>
-
-
 ---
 
 
