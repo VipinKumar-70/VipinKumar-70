@@ -51,10 +51,8 @@ learning:
 
 # 📈 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vipinkumar-70&theme=tokyonight&hide_border=true"/>
+  <img src="[[https://streak-stats.demolab.com?user=vipinkumar-70&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=vipinkumar-70&theme=tokyonight&hide_border=true&v=2)](https://streak-stats.demolab.com/?user=vipinkumar-70&theme=tokyonight&hide_border=true&v=2)"/>
 </p>
 
 
